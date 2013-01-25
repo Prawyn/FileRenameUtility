@@ -10,3 +10,5 @@ in command line run "rename_file.py" .
 
 
 As of now only "Append" feature enabled.
+
+tabraiz edits
